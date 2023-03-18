@@ -15,8 +15,8 @@ You can submit your order form to the API, where the seller can see the details 
   <li>Order ID</li>
   <li>City</li>
   <li>Post office</li>
-</ul>
-![image](https://user-images.githubusercontent.com/53310985/226144629-d82e4b79-d1bd-45a9-973b-4128e8b97529.png)
+</ul></br>
+![image](https://user-images.githubusercontent.com/53310985/226145088-21cd2198-1ca0-4abe-9669-80f285fda4dd.png)
 
 
 
