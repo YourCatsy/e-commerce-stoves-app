@@ -16,7 +16,8 @@ You can submit your order form to the API, where the seller can see the details 
   <li>City</li>
   <li>Post office</li>
 </ul>
-![image](https://user-images.githubusercontent.com/53310985/226145088-21cd2198-1ca0-4abe-9669-80f285fda4dd.png)
+<img src = 'https://user-images.githubusercontent.com/53310985/226145088-21cd2198-1ca0-4abe-9669-80f285fda4dd.png'/>
+
 
 
 
