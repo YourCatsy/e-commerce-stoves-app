@@ -16,16 +16,12 @@ const customStyles = {
 Modal.setAppElement('#modal');
 
 export default function AppModal() {
-  let subtitle;
+
   const [modalIsOpen, setIsOpen] = React.useState(false);
 
   function openModal() {
     setIsOpen(true);
     document.body.style.overflow = "hidden";
-  }
-
-  function afterOpenModal() {
-    subtitle.style.color = '#fff';
   }
 
   function closeModal() {
@@ -39,10 +35,9 @@ export default function AppModal() {
       <Modal
       overlayClassName="myOverlayClass"
         shouldCloseOnOverlayClick={false}
-        class = "modal_centered"
+        className = "modal_centered"
         id="account_form"
         isOpen={modalIsOpen}
-        onAfterOpen={afterOpenModal}
         onRequestClose={closeModal}
         style={customStyles}
       >
