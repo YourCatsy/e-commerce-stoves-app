@@ -2,8 +2,8 @@
 
 How my application works: https://oi0hgf-3000.csb.app/
 
-You can submit your order form to the API, where the seller can see the details of your order:
-![image](https://user-images.githubusercontent.com/53310985/226144556-d03c5135-148e-4466-9081-730fcb0fa612.png)
+You can submit your order form to the API, where the seller can see the details of your order:</br>
+![image](https://user-images.githubusercontent.com/53310985/226144556-d03c5135-148e-4466-9081-730fcb0fa612.png)</br>
 The following information is sent to the server:
 Name,
 Surname,
