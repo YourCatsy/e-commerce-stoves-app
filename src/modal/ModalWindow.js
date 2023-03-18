@@ -39,7 +39,7 @@ export default function AppModal() {
       <Modal
       overlayClassName="myOverlayClass"
         shouldCloseOnOverlayClick={false}
-        className = "modal_centered"
+        class = "modal_centered"
         id="account_form"
         isOpen={modalIsOpen}
         onAfterOpen={afterOpenModal}
