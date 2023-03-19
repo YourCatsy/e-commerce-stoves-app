@@ -24,6 +24,10 @@ You can fill out the order submission form and submit your order form to the API
 </ul>
 <img src = 'https://user-images.githubusercontent.com/53310985/226145088-21cd2198-1ca0-4abe-9669-80f285fda4dd.png'/>
 
+Layout:
+![image](https://user-images.githubusercontent.com/53310985/226171945-a197b412-db39-4aaa-b4c9-908ad4835b28.png)
+
+
 
 
 
