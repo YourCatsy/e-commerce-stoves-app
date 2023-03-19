@@ -2,7 +2,13 @@
 
 How my application works: https://oi0hgf-3000.csb.app/
 
-You can submit your order form to the API, where the seller can see the details of your order:</br>
+This project is a website. The site built entirely with ReactJS.
+
+All product data is stored locally in a file with objects.
+
+In this project I added the ability to filter, sort, search by name and adding a product to the cart.
+
+You can fill out the order submission form and submit your order form to the API, where the seller can see the details of your order:</br>
 ![image](https://user-images.githubusercontent.com/53310985/226144556-d03c5135-148e-4466-9081-730fcb0fa612.png)</br>
 <ul>The following information is sent to the server:
   <li>Name</li>
